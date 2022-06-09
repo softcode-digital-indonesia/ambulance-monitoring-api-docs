@@ -3,9 +3,9 @@
 It's used by super admin to manage available UPTD at Monitoring System.
 
 ### Contents
-- [Create UPTD](create-uptd)
+- [Create UPTD](#1-create-uptd)
 
-#### Create UPTD
+#### 1. Create UPTD
 
 Request : 
 - Method : POST
