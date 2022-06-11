@@ -5,7 +5,7 @@ It's used to manage complaint category data at Monitoring System.
 ### Contents
 - [Get Complaint Category Type](#1-get-complaint-category-type)
 - [Create Complaint Category](#2-create-complaint-category)
-- [Get All Complaint Category](#3-get-all-complaint-catgory)
+- [Get All Complaint Category](#3-get-all-complaint-category)
 - [Update Complaint Category by Id](#4-update-complaint-category-by-id)
 - [Delete Complaint Category by Id](#5-delete-complaint-category-by-id)
 
